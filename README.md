@@ -14,7 +14,7 @@ I enjoy making complicated workflows feel a little less complicated.
 
 ### A bit about me
 
-I work at **FinImplement Consulting LLP**, where I automate workflows in enterprise treasury applications using **Playwright, TypeScript and JavaScript**.
+I work at **FinMechanics**, where I automate workflows in enterprise treasury applications using **Playwright, TypeScript and JavaScript**.
 
 My day-to-day work involves FX trade journeys, approval flows, settlement checks and investigating application issues. I like figuring out how all the pieces fit together, especially when something doesn't behave the way it should.
 
