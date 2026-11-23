@@ -1,34 +1,76 @@
-# Priyanshu Kakkad
+<div align="center">
 
-**Automation Engineer** · FinTech / Treasury Systems  
-Playwright · TypeScript · JavaScript · Python
+# Hey, I'm Priyanshu 👋
 
-I work on automation for enterprise financial applications — particularly the workflows behind FX trading, approvals, and settlement.
+**Automation Engineer** &nbsp;·&nbsp; FinTech & treasury systems
 
-At **FinImplement Consulting LLP**, I build and maintain UI automation with Playwright and TypeScript, work through front-to-back treasury scenarios, and help investigate application issues. I'm interested in the engineering behind reliable releases, not just the application screens.
+I enjoy making complicated workflows feel a little less complicated.
 
-Outside of work, I'm learning more about CI/CD, infrastructure, monitoring, and practical AI systems.
+[Explore my projects](https://github.com/Priyanshu608?tab=repositories) &nbsp;·&nbsp; [What I'm learning](#currently-exploring)
 
----
+</div>
 
-### What I'm working with
+<br>
 
-| Area | Tools & experience |
+### A bit about me
+
+I work at **FinImplement Consulting LLP**, where I automate workflows in enterprise treasury applications using **Playwright, TypeScript and JavaScript**.
+
+My day-to-day work involves FX trade journeys, approval flows, settlement checks and investigating application issues. I like figuring out how all the pieces fit together, especially when something doesn't behave the way it should.
+
+Lately, I've been spending more time learning what happens beyond the application itself: how code gets built, checked, deployed and monitored.
+
+### My toolkit
+
+| What I work with | What I'm growing into |
 | :--- | :--- |
-| **Automation** | Playwright, TypeScript, JavaScript, reusable UI automation frameworks |
-| **Financial systems** | FX Spot & Swaps, trade lifecycle, approval workflows, settlements, UAT |
-| **Development** | Python, Git, APIs, Flask |
-| **Currently exploring** | GitHub Actions, Docker, Kubernetes, monitoring, AI-assisted workflows |
+| `Playwright` `TypeScript` `JavaScript` | `GitHub Actions` `Docker` `Kubernetes` |
+| `Python` `Git` `Flask` | `CI/CD` `Monitoring` `System reliability` |
+| FX Spot and Swaps, trade lifecycle automation | Infrastructure and AI-assisted engineering |
 
-### Selected projects
+### Things I've built
 
-- **[AI Ticket Management](https://github.com/Priyanshu608/ai-ticket-management)** — Ticket triage, account-health briefs, retrieval, and evaluation of LLM-generated responses.
-- **[MedAssist](https://github.com/Priyanshu608/MedAssist)** — A healthcare knowledge assistant built around retrieval-augmented generation.
-- **[Smart CRM](https://github.com/Priyanshu608/Smart-CRM-)** — A Flask-based CRM application with machine-learning integration.
-- **[KCC Seasonal Trend Analysis](https://github.com/Priyanshu608/kcc-seasonal-trend-analysis)** — Exploring seasonal patterns in agricultural advisory data with Python.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Priyanshu608/ai-ticket-management">AI Ticket Management</a></strong>
+      <br>
+      Support ticket triage, account health briefs and evaluations for LLM-generated responses.
+      <br><br>
+      <sub>Python · LLMs · FastAPI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Priyanshu608/MedAssist">MedAssist</a></strong>
+      <br>
+      A healthcare knowledge assistant that uses retrieval to answer questions with supporting sources.
+      <br><br>
+      <sub>Python · Streamlit · RAG</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Priyanshu608/Smart-CRM-">Smart CRM</a></strong>
+      <br>
+      A CRM web app with machine learning integrated into customer analysis.
+      <br><br>
+      <sub>Flask · Python · Machine learning</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Priyanshu608/kcc-seasonal-trend-analysis">KCC Seasonal Trend Analysis</a></strong>
+      <br>
+      Exploring how agricultural advisory queries change across seasons.
+      <br><br>
+      <sub>Python · Data analysis · Time series</sub>
+    </td>
+  </tr>
+</table>
 
-### Where I'm headed
+### Currently exploring
 
-I'm growing from application automation into broader engineering work: **CI/CD, system reliability, deployment workflows, and AI-enabled tools**. My next focus is contributing to open source and building pipelines that run checks automatically.
+- Making CI pipelines useful with automatic builds, checks and test reports
+- Understanding deployment and monitoring through hands-on projects
+- Contributing small, meaningful improvements to open-source software
 
-<sub>Based in India · [Repositories](https://github.com/Priyanshu608?tab=repositories)</sub>
+<br>
+
+<sub>Based in India · Still learning, always building.</sub>
